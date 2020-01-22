@@ -235,8 +235,8 @@ h1::after{
     .feature img{
         margin-top: 180px;
     }
-    .services{
-        margin-top: 0px;
+    .services, .feature, .footer{
+        margin-top: 30%;
     }
     .header .content-box{
         height: 800px;
